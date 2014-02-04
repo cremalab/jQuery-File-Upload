@@ -48,15 +48,10 @@
   ],
   "dependencies": {
     "jquery": ">=1.6",
-    "blueimp-tmpl": ">=2.5.3",
     "blueimp-load-image": ">=1.11.0",
     "blueimp-canvas-to-blob": ">=2.1.0"
   },
   "main": [
-    "css/jquery.fileupload.css",
-    "css/jquery.fileupload-ui.css",
-    "css/jquery.fileupload-noscript.css",
-    "css/jquery.fileupload-ui-noscript.css",
     "js/cors/jquery.postmessage-transport.js",
     "js/cors/jquery.xdr-transport.js",
     "js/vendor/jquery.ui.widget.js",
@@ -66,9 +61,6 @@
     "js/jquery.fileupload-image.js",
     "js/jquery.fileupload-audio.js",
     "js/jquery.fileupload-video.js",
-    "js/jquery.fileupload-ui.js",
-    "js/jquery.fileupload-jquery-ui.js",
-    "js/jquery.fileupload-angular.js",
     "js/jquery.iframe-transport.js"
   ],
   "ignore": [
